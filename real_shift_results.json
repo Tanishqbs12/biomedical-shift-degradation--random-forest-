@@ -1,0 +1,12 @@
+{
+  "dataset": "Golub 1999 (real train/test cohort split)",
+  "n_genes_selected": 50,
+  "train_cv_accuracy_mean": 0.975,
+  "train_cv_accuracy_std": 0.049999999999999996,
+  "test_accuracy": 0.8823529411764706,
+  "test_precision_aml": 1.0,
+  "test_recall_aml": 0.7142857142857143,
+  "test_f1_aml": 0.8333333333333334,
+  "test_roc_auc": 0.9857142857142857,
+  "domain_classifier_auc": 0.6056122448979592
+}
